@@ -1,0 +1,10 @@
+[package]
+name = "state-machine"
+version = "0.1.0"
+authors = ["Sabree Blackmon <sabree@heavypackets.sh>"]
+edition = "2018"
+
+[dependencies]
+tokio = "0.1"
+futures = "0.1"
+predicates = "1.0"
